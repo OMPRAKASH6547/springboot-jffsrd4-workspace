@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Jspider\springboot-jffsrd4-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3727714548.index
+813402730.index
+2504020909.index
+3148074856.index
+4133803180.index
+2836145074.index
